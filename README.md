@@ -1,4 +1,4 @@
-# AIData.Broker open data API
+# AIData.Broker
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -68,9 +68,9 @@ AIData.Broker provides an open data marketplace for AI training data, offering p
 
 **Areas:** Company · Data Marketplace · AI Training · Pricing · Buyers
 
-## AIData.Broker open data API on APIs.io
+## AIData.Broker on APIs.io
 
-Everything profiled for AIData.Broker open data API is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/aidata-broker/](https://apis.io/providers/aidata-broker/)** — or go straight to one of the APIs or properties below.
+Everything profiled for AIData.Broker is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/aidata-broker/](https://apis.io/providers/aidata-broker/)** — or go straight to one of the APIs or properties below.
 
 ### APIs (1)
 
@@ -84,7 +84,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Aidata Broker Domain Security](https://apis.io/security/aidata-broker/aidata-broker-domain-security/)
+- [AIData.Broker Domain Security](https://apis.io/security/aidata-broker/aidata-broker-domain-security/)
 
 ## Where to find this API
 
@@ -94,13 +94,14 @@ Links to the company's own pages. This repository publishes no copy of their spe
 - [Documentation](https://aidata.broker/datasets)
 - [Getting started](https://aidata.broker/about)
 - [Pricing](https://aidata.broker/pricing)
+- [Support](https://aidata.broker/support)
 - [Blog](https://aidata.broker/blog)
 - [Terms of service](https://aidata.broker/legal/terms)
 - [Privacy policy](https://aidata.broker/legal/privacy)
 
 ## API Evangelist rating
 
-**Kin Score 17.3** — emerging · rubric 0.24.0 · scored 2026-10-17
+**Kin Score 17.3** — emerging · rubric 0.25.0 · scored 2026-10-23
 
 | Facet | Score |
 |---|---|
@@ -134,6 +135,8 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Protected Resource Metadata | — |
 | Dynamic Client Registration | — |
 | Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
 
 **Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
 
@@ -143,7 +146,7 @@ The rubric is published at [github.com/api-evangelist/kin-score](https://github.
 
 API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for AIData.Broker open data API: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for AIData.Broker: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
 ## Open an issue
 
