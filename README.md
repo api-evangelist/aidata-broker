@@ -64,7 +64,7 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-AIData.Broker provides an open data marketplace for AI training data, offering pricing, buyer information, and deal records. It aggregates public price observations across data types such as images, video, code, and text, enabling companies to discover the value of their data and connect with AI labs interested in purchasing it. The platform also supplies tools for valuation, negotiation, and compliance, aiming to streamline data sales for enterprises.
+AIData.Broker provides a marketplace and licensed market data on AI training data, offering pricing, buyer information, and deal records. It aggregates public price observations across data types such as images, video, code, and text, enabling companies to discover the value of their data and connect with AI labs interested in purchasing it. The platform also supplies tools for valuation, negotiation, and compliance, aiming to streamline data sales for enterprises.
 
 **Areas:** Company · Data Marketplace · AI Training · Pricing · Buyers
 
@@ -85,6 +85,12 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 Authentication, trust centre, and vulnerability disclosure.
 
 - [AIData.Broker Domain Security](https://apis.io/security/aidata-broker/aidata-broker-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [AIData.Broker Plans Pricing](https://apis.io/plans/aidata-broker/aidata-broker-plans-pricing/)
 
 ## Where to find this API
 
